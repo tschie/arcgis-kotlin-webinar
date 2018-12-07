@@ -1,7 +1,7 @@
 # arcgis-kotlin-webinar
 Examples from Esri GeoDev's ArcGIS Runtime + Kotlin webinar 2018
 
-Watch the recording here when it is published: https://www.esri.com/en-us/landing-page/product/2018/geodev-webinar-series
+Watch the recording here: https://www.esri.com/en-us/landing-page/product/2018/geodev-webinar-series/arcgis-runtime-kotlin
 
 ### features
 This project has 12 examples of Kotlin features that all build on each other.
